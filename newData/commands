@@ -4,3 +4,4 @@ git commit -m
 git push
 git branch Info
 git checkout Info
+this is some wrong information
