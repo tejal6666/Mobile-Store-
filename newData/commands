@@ -4,3 +4,6 @@ git commit -m
 git push
 git branch Info
 git checkout Info
+git pull
+git revert
+git merge
