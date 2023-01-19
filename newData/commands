@@ -1,5 +1,6 @@
 git status
 git add .
-git commit -m 
+git commit -m
 git push
 git branch Info
+git pull
