@@ -3,7 +3,11 @@ git add .
 git commit -m
 git push
 git branch Info
+<<<<<<< HEAD
 git checkout Info
 git pull
 git revert
 git merge
+=======
+git pull
+>>>>>>> main
